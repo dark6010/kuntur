@@ -1,0 +1,24 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb_dev": {
+    "host": "ds033135.mlab.com",
+    "port": 33135,
+    "database": "kuntur",
+    "username": "dbukuntur",
+    "password": "dbpkuntur",
+    "name": "mongodb_dev",
+    "connector": "mongodb"
+  },
+  "mongodb_staging": {
+    "host": "ds033135.mlab.com",
+    "port": 33135,
+    "database": "kuntur",
+    "username": "dbukuntur",
+    "password": "dbpkuntur",
+    "name": "mongodb_staging",
+    "connector": "mongodb"
+  }
+}
